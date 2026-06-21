@@ -139,7 +139,7 @@ Designed and deployed a centralized monitoring and alerting solution. Provided r
 ![EC2 Instance](screenshots/ec2.jpg)
 
 ### Security Groups
-![Security Groups](security-groups.jpg)
+![Security Groups](screenshots/security-groups.jpg)
 
 ### Grafana
 
