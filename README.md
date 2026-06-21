@@ -132,7 +132,7 @@ Designed and deployed a centralized monitoring and alerting solution. Provided r
 
 ### Terraform Deployment
 
-![Terraform Apply](screenshots/terraform1.jpg)
+![Terraform Apply](screenshots/terraform 1.jpg)
 
 ### EC2 Instance
 
