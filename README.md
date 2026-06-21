@@ -127,49 +127,25 @@ Validated email notifications and alert delivery workflows.
 
 Designed and deployed a centralized monitoring and alerting solution. Provided real time visibility into CPU, memory, disk, and uptime metrics. Improved operational awareness and incident response through automated monitoring and notifications.
 
-## Screenshots
-
-### Terraform Deployment
-
-![Terraform Apply](screenshots/terraform-apply.jpg)
-
-### EC2 Monitoring Server
-
-![EC2 Instance](screenshots/ec2-instance.jpg)
-
-### Prometheus Targets
-
-![Prometheus Targets](screenshots/prometheus-targets.jpg)
-
-### Grafana Dashboard
-
-![Grafana Dashboard](screenshots/grafana-dashboard.jpg)
-
-### CloudWatch Alarm
-
-![CloudWatch Alarm](screenshots/cloudwatch-alarm.jpg)
-
-### SNS Topic
-
-![SNS Topic](screenshots/sns-topic.jpg)
-
-### SNS Email Subscription
-
-![SNS Email Subscription](screenshots/sns-email-subscription.jpg)
-
-### Alert Notification
-
-![Alert Notification](screenshots/alert-email.jpg)
 
 ## Screenshots
 
 ### Terraform Deployment
 
-![Terraform Apply](screenshots/terraform%201.jpg)
+![Terraform Apply](screenshots/terraform1.jpg)
 
 ### EC2 Instance
 
 ![EC2 Instance](screenshots/ec2.jpg)
+
+### Security Groups
+![Security Groups](security-groups.jpg)
+
+### Grafana
+
+![Grafana](screenshots/grafana.jpg)
+
+![Grafana](screenshots/grafana2.jpg)
 
 ### Grafana Dashboard
 
